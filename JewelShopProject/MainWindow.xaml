@@ -1,0 +1,39 @@
+﻿<Window x:Class="JewelShopProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:JewelShopProject"
+        mc:Ignorable="d"
+        Title="Ювелирная мастерская" Height="600" Width="800">
+    <TabControl >
+        <TabItem Header="Главная" FontSize="16">
+            <Grid>
+                <DataGrid Name="dgForOutTable" VerticalAlignment="Top"  Height="204" Margin="10,314,10,0" CanUserAddRows="False" LoadingRow="DataGrid_LoadingRow"/>
+                <ListBox x:Name="MaterialsForWareList" HorizontalAlignment="Left" Height="193" Margin="10,39,0,0" VerticalAlignment="Top" Width="239" Grid.ColumnSpan="2" KeyDown="MaterialsForWareList_KeyDown"/>
+                <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Набор материалов для изделия" VerticalAlignment="Top" Height="24" Width="239" FontSize="16" Grid.ColumnSpan="2"/>
+                <ComboBox x:Name="MaterialListComboBox" HorizontalAlignment="Left" Margin="272,39,0,0" VerticalAlignment="Top" Width="182" FontSize="16"/>
+                <TextBlock HorizontalAlignment="Left" Margin="272,10,0,0" TextWrapping="Wrap" Text="Материал" VerticalAlignment="Top" Height="24" Width="120" FontSize="16"/>
+                <Button x:Name="AddMaterialToListButton" Content="Добавить" HorizontalAlignment="Left" Margin="272,95,0,0" VerticalAlignment="Top" Width="84" FontSize="16" Click="AddMaterialToListButton_Click" />
+                <ComboBox x:Name="DataOutListComboBox"  HorizontalAlignment="Left" Margin="10,247,0,0" VerticalAlignment="Top" Width="120" FontSize="16">
+                    <ComboBoxItem Content="Изделия"/>
+                    <ComboBoxItem Content="Изделия и их состав"/>
+                    <ComboBoxItem Content="Материалы"/>
+                </ComboBox>
+                <Button x:Name="OutTableOnDataGridButton"  Content="Вывести" HorizontalAlignment="Left" Margin="10,281,0,0" VerticalAlignment="Top" Width="84" FontSize="16" Click="OutTableOnDataGridButton_Click"/>
+                <TextBox Name="GrammsTextBox" HorizontalAlignment="Left" Height="29" Margin="475,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" FontSize="16"/>
+                <TextBlock HorizontalAlignment="Left" Margin="475,13,0,0" TextWrapping="Wrap" Text="Граммы" VerticalAlignment="Top" FontSize="16"/>
+                <Button x:Name="MakeOrderButton" Visibility="Hidden" Content="Заказать" HorizontalAlignment="Left" Margin="673,259,0,0" VerticalAlignment="Top" Width="99" FontSize="18" Click="MakeOrderButton_Click" />
+                <TextBlock x:Name="NameWareTB" Visibility="Hidden" HorizontalAlignment="Left" Margin="446,230,0,0" TextWrapping="Wrap" Text="Введите название изделия" VerticalAlignment="Top" FontSize="16"/>
+                <TextBox x:Name="SetWareNameTextBox" Visibility="Hidden" HorizontalAlignment="Left" Height="31" Margin="446,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="222" FontSize="16" SpellCheck.IsEnabled="True"/>
+                <TextBlock x:Name="CbTypeWare" Visibility="Hidden" HorizontalAlignment="Left" Margin="446,172,0,0" TextWrapping="Wrap" Text="Укажите тип изделия" VerticalAlignment="Top" FontSize="16" Width="222"/>
+                <ComboBox x:Name="TypeOfWareComboBox" Visibility="Hidden" HorizontalAlignment="Left" Margin="446,201,0,0" VerticalAlignment="Top" Width="120" FontSize="16">
+                    <ComboBoxItem Content="Кольцо"/>
+                    <ComboBoxItem Content="Браслет"/>
+                    <ComboBoxItem Content="Брошь"/>
+                    <ComboBoxItem Content="Серьги"/>
+                </ComboBox>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

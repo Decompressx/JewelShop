@@ -1,0 +1,30 @@
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csprojAssemblyReference.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\App.g.cs
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject_MarkupCompile.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject_MarkupCompile.lref
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.exe.config
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.pdb
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\MainWindow.baml
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.g.resources
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.Properties.Resources.resources
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csproj.GenerateResource.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.exe
+C:\Users\Vlad\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.pdb
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.exe.config
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.exe
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\bin\Debug\JewelShopProject.pdb
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csprojAssemblyReference.cache
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\MainWindow.g.cs
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\App.g.cs
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject_MarkupCompile.cache
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject_MarkupCompile.lref
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\MainWindow.baml
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.g.resources
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.Properties.Resources.resources
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csproj.GenerateResource.cache
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.exe
+C:\Users\Vlad Tkachenko\OneDrive\3 курс\Теория программирования\2 семестр\JewelShopProject\JewelShopProject\obj\Debug\JewelShopProject.pdb
